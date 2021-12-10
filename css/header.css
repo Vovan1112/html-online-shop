@@ -1,0 +1,13 @@
+.header-nav-logo{
+    color: var(--main-color);
+    font-size: 3.5rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+.header__nav-menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-self: flex-start;
+
+}
